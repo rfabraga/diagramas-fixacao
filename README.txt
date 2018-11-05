@@ -1,0 +1,5 @@
+Mini cenário para o projeto: Controle de exercícios de fixação
+Mariana prepara diversos exercícios para suas filhas que estão na primeira e na segunda séries. Ela gostaria de informatizar esses exercícios, para gerar testes aleatórios.
+Cada teste gerado deve ser guardado (acompanhado de suas questões), com a indicação de sua data de geração. Na geração de um teste, é preciso informar o número de questões desejadas e a qual disciplina pertence o teste.
+Para cada disciplina, cadastra-se: uma lista de questões objetivas, identificando de que bimestre é cada questão e a que conteúdo pertence. O gabarito também é cadastrado a fim de facilitar a correção do teste. Cada conteúdo faz parte de uma única disciplina. A série está ligada ao conteúdo. 
+Por exemplo: para a disciplina de matemática, Mariana prepara um teste com 20 questões. Cada questão corresponde a um bimestre (1°, 2°. 3° ou 4°) e a um conteúdo (ex: adição, divisão, números pares e impares, números primos, sinónimos etc). Cada conteúdo corresponde a uma disciplina (adição - matemática; sinônimos - português etc).
